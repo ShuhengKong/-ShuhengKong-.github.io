@@ -1,0 +1,16 @@
+---
+title: "Photography"
+---
+
+Below are photos I took in Atlanta Aquarium.
+
+
+
+![](c.jpg)
+
+![](d.jpg)
+
+![](e.jpg)
+
+
+![](f.jpg)

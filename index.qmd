@@ -1,0 +1,25 @@
+---
+about:
+  template: trestles
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+      - icon: twitter
+        text: Twitter
+        href: https://twitter.com/Harry1919848/
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/shuheng-kong-b5581424b/
+      - icon: instagram
+        text: Instagram
+        href: https://www.instagram.com/confucius185/
+ 
+---
+
+
+
+I am Shuheng Kong and my preferred name is Harry. I am planning to pursue a Master of Science degree in Biostatistics. I am particularly interested in expanding my knowledge and skills in biostatistics to tackle complex challenges in public health, clinical trials, and epidemiology. During my Master's program, I aim to go deeper into topics such as survival analysis, longitudinal data analysis, and Bayesian statistics.
+
+In the long term, I aspire to pursue a PhD in Biostatistics to further advance my expertise and make significant contributions to the field. 
+
+
